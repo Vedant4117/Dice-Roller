@@ -58,12 +58,12 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-assets:
-  - assets/pics/dice-1.png
-  - assets/pics/dice-2.png
-  - assets/pics/dice-3.png
-  - assets/pics/dice-4.png
-  - assets/pics/dice-5.png
+  assets:
+    - assets/pics/dice-1.png
+    - assets/pics/dice-2.png
+    - assets/pics/dice-3.png
+    - assets/pics/dice-4.png
+    - assets/pics/dice-5.png
   - assets/pics/dice-6.png
 
 
